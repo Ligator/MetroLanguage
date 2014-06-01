@@ -1,0 +1,11 @@
+** meETr0olAñGuAGeE **~ xD
+** TrAduceE Tu ABurriidA páGiiñA Al HeErm0ozh0o meETr0olAñGuAGeE ***- <3
+Abel Pacheco. Mayo 2014.
+
+Intalación.
+
+1.- Abre una pestaña del navegador Chrome con la dirección "chrome://extensions/".
+2.- Arrastra el archivo "MetroLanguage v1.0.crx" hasta dicha pestaña, debe aparecer el mensaje "Soltar para instalar", suelta.
+3.- Disfruta de tu nuevo MetroLanguage en cada nueva pestaña que abras y en cada recarga de página. ;)
+
+Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad, si deseas ocultarlo basta con dar click derecho sobre él y selleccionar "Botón Ocultar". La extensión seguirá funcionando normalmente.

@@ -26,7 +26,7 @@ Puedes instalarlo de 2 formas.
 
 #### Baja el código fuente, empaquétalo e instálalo.
 
-* En [esta página](https://developer.chrome.com/extensions/packaging) explican el proceso de empaquetado, es la página oficial de Chrome Developer, los archivos a empaquetar son los de la carpeta "scr".
+* En [esta página](https://developer.chrome.com/extensions/packaging) explican el proceso de empaquetado, es la página oficial de Chrome Developer.
 * Repite desde el paso 2 de la forma anterior.
 
 Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad, si deseas ocultarlo basta con dar click derecho sobre él y selleccionar "Botón Ocultar". La extensión seguirá funcionando normalmente.
