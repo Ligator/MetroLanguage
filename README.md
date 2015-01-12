@@ -34,7 +34,7 @@ Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad
 ### Capturas de pantalla
 
 ![Alt text](screenshot/Captura de pantalla de 2014-05-22 12:21:23.png?raw=true "Página de error")
-![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:43:27.png?raw=true "Facebook")
-![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:45:15.png?raw=true "YouTube")
-![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:47:38.png?raw=true "ElDeforma")
-![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:50:19.png?raw=true "Wikipedia")
+![Alt text](screenshot/Captura de pantalla de 2014-05-23 18:43:27.png?raw=true "Facebook")
+![Alt text](screenshot/Captura de pantalla de 2014-05-23 18:45:15.png?raw=true "YouTube")
+![Alt text](screenshot/Captura de pantalla de 2014-05-23 18:47:38.png?raw=true "ElDeforma")
+![Alt text](screenshot/Captura de pantalla de 2014-05-23 18:50:19.png?raw=true "Wikipedia")
