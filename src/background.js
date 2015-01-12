@@ -1,6 +1,6 @@
 
 $( document ).ready(function() {
-    var cadFinal = [" **~ xD", " -- <3", " ***", ",.-~ :D", " **_- ;)", " *+..", "... *-*"];
+    var cadFinal = [" **~ xD", " -- <3", " ***", ",.-~ :D", " **_- ;)", " *+..", "... *-*", ""];
 
     $('body :not(:has(*))').text(function(i, str) {
         if(str != ""){
@@ -18,7 +18,7 @@ $( document ).ready(function() {
             str = str.replace(/z/g,"zh");
             str = str.replace(/s/g,"zh");
             str = str.replace(/t/g,"T");
-            str = "** " + str + cadFinal[Math.floor(Math.random() * 6)];
+            str = "** " + str + cadFinal[Math.floor(Math.random() * 7)];
             return str;
         }
     });
