@@ -30,3 +30,11 @@ Puedes instalarlo de 2 formas.
 * Repite desde el paso 2 de la forma anterior.
 
 Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad, si deseas ocultarlo basta con dar click derecho sobre él y selleccionar "Botón Ocultar". La extensión seguirá funcionando normalmente.
+
+### Capturas de pantalla
+
+![Alt text](screenshot/Captura de pantalla de 2014-05-22 12:21:23.png?raw=true "Página de error")
+![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:43:27.png?raw=true "Facebook")
+![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:45:15.png?raw=true "YouTube")
+![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:47:38.png?raw=true "ElDeforma")
+![Alt text](screenshot/Captura de pantalla de 2014-05-22 18:50:19.png?raw=true "Wikipedia")
