@@ -35,10 +35,28 @@ Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad
 
 Solo arrastra el siguiente link a tu barra de marcadores (de favoritos).
 
-<a href="javascript:alert('Hello world')">** meETr0olAñGuAGeE **~ xD</a>
-<a href="javascript:alert('Hola')">vinculo</a>
-<a href="javascript: alert('Linky text');">Linky</a>
-<a href="javascript:%20alert('Oh,%20hey!%20Almost%20did%20not%20see%20you%20there');">this link</a>
+<a href="javascript:(function(){d=document;s=d.createElement('script');s.src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js';d.getElementsByTagName('head')[0].appendChild(s);var bto=setTimeout(function(){if(typeof jQuery!='undefined'){onLL();clearInterval(bto);}},500);onLL=function(){
+var cadFinal = [' **~ xD', ' -- <3', ' ***', ',.-~ :D', ' **_- ;)', ' *+..', '... *-*', ''];
+$('body :not(:has(*))').text(function(i, str) {
+if(str != ''){
+str = str.toLowerCase();
+str = str.replace(/a/g,'A');
+str = str.replace(/e/g,'eE');
+str = str.replace(/i/g,'ii');
+str = str.replace(/o/g,'0o');
+str = str.replace(/b/g,'B');
+str = str.replace(/g/g,'G');
+str = str.replace(/h/g,'H');
+str = str.replace(/k/g,'Q');
+str = str.replace(/q/g,'k');
+str = str.replace(/n/g,'ñ');
+str = str.replace(/z/g,'zh');
+str = str.replace(/s/g,'zh');
+str = str.replace(/t/g,'T');
+str = '** ' + str + cadFinal[Math.floor(Math.random() * 7)];
+return str;
+}});
+}})()" >** m0oxiiT0o0o0o **~ xD</a><br>
 
 ### Capturas de pantalla
 
