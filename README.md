@@ -35,7 +35,7 @@ Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad
 
 Solo arrastra el siguiente link a tu barra de marcadores (de favoritos).
 
-<a href="alert('Hello world')">** meETr0olAñGuAGeE **~ xD</a>
+<a href="javascript:alert('Hello world')">** meETr0olAñGuAGeE **~ xD</a>
 
 ### Capturas de pantalla
 
