@@ -37,6 +37,8 @@ Solo arrastra el siguiente link a tu barra de marcadores (de favoritos).
 
 <a href="javascript:alert('Hello world')">** meETr0olAñGuAGeE **~ xD</a>
 <a href="javascript:alert('Hola')">vinculo</a>
+<a href="javascript: alert('Linky text');">Linky</a>
+<a href="javascript:%20alert('Oh,%20hey!%20Almost%20did%20not%20see%20you%20there');">this link</a>
 
 ### Capturas de pantalla
 
