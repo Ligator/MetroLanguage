@@ -15,7 +15,7 @@ La intención es, en esencia, mostrar la dificultad de lectura que este tipo de 
 
 ### ¿Cómo lo instalo?
 
-Puedes instalarlo de 2 formas.
+Puedes instalarlo de 3 formas.
 
 #### Baja la extensión empaquetada e instálala.
 
@@ -30,6 +30,12 @@ Puedes instalarlo de 2 formas.
 * Repite desde el paso 2 de la forma anterior.
 
 Nota: El icono que aparece al instalar esta extensión no tiene ninguna utilidad, si deseas ocultarlo basta con dar click derecho sobre él y selleccionar "Botón Ocultar". La extensión seguirá funcionando normalmente.
+
+#### Agrégalo como Bookmarklet
+
+Solo arrastra el siguiente link a tu barra de marcadores (de favoritos).
+
+<a href="alert('Hello world')">** meETr0olAñGuAGeE **~ xD</a>
 
 ### Capturas de pantalla
 
